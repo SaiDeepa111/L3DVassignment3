@@ -1,4 +1,4 @@
-Assignment 3 : Neural Volume Rendering and Surface Rendering
+Sai Assignment 3 : Neural Volume Rendering and Surface Rendering
 ===================================
 Goals: In this assignment, you will setup a differentiable rendering pipeline and implement neural volume/surface rendering techniques like NeRF and VolSDF.
 
